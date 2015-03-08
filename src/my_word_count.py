@@ -9,7 +9,7 @@ for path,dirs,files in os.walk('wc_input/'):
         file = open(path+file,'r+')
         for word in file.read().lower().split():
             #remove extra symbols
-            word = re.sub('[^a-zA-Z]+', '', word)
+            word = re.sub('[^a-zA-Z]+', ' ', word).strip()
             if word not in wordcount:
                 wordcount[word] = 1
             else:

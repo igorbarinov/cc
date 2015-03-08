@@ -1,9 +1,10 @@
 a 62
+a going 1
 abandon 1
 abominate 1
 about 5
-abouthowever 1
-absentminded 1
+about however 1
+absent minded 1
 account 2
 act 1
 activity 1
@@ -12,10 +13,9 @@ afternoon 1
 again 1
 against 1
 ago 1
-agoing 1
-agonever 1
+ago never 1
 ah 1
-aint 1
+ain t 1
 air 1
 all 18
 alleys 1
@@ -44,9 +44,9 @@ at 5
 athirst 1
 atmosphere 1
 attract 1
-avenuesnorth 1
+avenues north 1
 awe 1
-bakehouses 1
+bake houses 1
 ball 1
 barques 1
 bathed 1
@@ -54,7 +54,7 @@ battery 1
 be 12
 beach 1
 bear 1
-beautys 1
+beauty s 1
 because 4
 been 1
 before 3
@@ -125,7 +125,7 @@ constant 1
 content 2
 contrary 1
 cook 2
-cookthough 1
+cook though 1
 cooled 1
 coral 1
 corlears 1
@@ -141,7 +141,7 @@ dale 1
 damp 1
 days 1
 death 1
-deaths 1
+death s 1
 deck 1
 decks 1
 decoction 1
@@ -224,11 +224,12 @@ fixed 2
 flourish 1
 for 14
 forbidden 1
-forecastle 3
+fore castle 1
+forecastle 2
 formed 1
 fountain 1
 fowl 1
-fowlsthough 1
+fowls though 1
 from 10
 funeral 1
 gabriel 1
@@ -273,7 +274,7 @@ her 1
 here 5
 hermit 1
 high 3
-hillside 1
+hill side 1
 him 3
 himself 1
 his 9
@@ -327,7 +328,7 @@ just 2
 keen 1
 key 1
 kind 1
-kneedeep 1
+knee deep 1
 knew 1
 knocking 1
 knowing 1
@@ -370,7 +371,7 @@ manhattoes 1
 many 1
 marvellous 1
 mast 1
-masthead 1
+mast head 1
 maxim 1
 may 3
 mazy 1
@@ -413,7 +414,7 @@ never 4
 new 1
 niagara 1
 nigh 1
-nightsdo 1
+nights do 1
 no 5
 noble 1
 nor 1
@@ -427,20 +428,20 @@ ocean 2
 oceans 1
 of 72
 off 2
+off then 1
 officer 2
 offices 1
-offthen 1
 old 6
 on 10
 once 2
 one 8
-ones 1
+one s 1
 or 11
 orchard 1
 order 2
 orders 1
 other 4
-others 1
+other s 1
 ourselves 2
 out 5
 over 2
@@ -448,7 +449,7 @@ overlapping 1
 own 1
 pacing 1
 paid 1
-paidwhat 1
+paid what 1
 paint 1
 part 5
 particular 2
@@ -464,7 +465,7 @@ pedestrian 1
 peep 1
 penny 1
 pent 1
-peoples 1
+people s 1
 peppered 1
 perdition 1
 performances 1
@@ -474,11 +475,11 @@ phantom 1
 philosophical 1
 physical 1
 picture 1
-pierheads 1
-pinetree 1
+pier heads 1
+pine tree 1
 pistol 1
 place 1
-plastertied 1
+plaster tied 1
 please 1
 plumb 1
 plunged 2
@@ -490,7 +491,7 @@ poor 1
 possibly 1
 posterity 1
 prairies 1
-preciselyhaving 1
+precisely having 1
 prevalent 1
 prevent 1
 previous 2
@@ -505,8 +506,8 @@ purse 3
 putting 1
 pyramids 1
 pythagorean 1
-quarrelsomedont 1
-quarterdeck 1
+quarrelsome don t 1
+quarter deck 1
 quietest 1
 quietly 1
 quite 1
@@ -519,7 +520,7 @@ really 1
 rear 1
 receives 1
 receiving 1
-reefscommerce 1
+reefs commerce 1
 refigured 1
 region 1
 regulating 1
@@ -530,7 +531,7 @@ respectable 1
 respectfully 2
 reverentially 1
 reveries 1
-reveriesstand 1
+reveries stand 1
 rigging 1
 right 3
 river 1
@@ -562,19 +563,19 @@ schoolmaster 2
 schooners 1
 scores 2
 sea 10
-seacaptain 1
-seacaptains 1
-seasickgrow 1
+sea captain 1
+sea captains 1
+sea sick grow 1
 seated 1
 seaward 1
 second 1
 secretly 1
 see 4
+see posted 1
 seemingly 1
-seeposted 1
 self 2
-selfkilled 1
-selfwilled 1
+self killed 1
+self willed 1
 seneca 1
 sense 1
 sentinels 1
@@ -584,13 +585,13 @@ set 1
 shadiest 1
 shady 1
 shakes 1
-shepherds 2
+shepherd s 2
 ship 2
-shipboardyet 1
+ship board yet 1
 ships 3
 shore 1
 should 3
-shoulderblades 1
+shoulder blades 1
 shouldst 1
 shout 2
 sighs 1
@@ -621,7 +622,7 @@ spiles 1
 spleen 1
 spurs 1
 stand 3
-standmiles 1
+stand miles 1
 stepping 1
 still 2
 stoics 1
@@ -651,19 +652,19 @@ sword 1
 take 6
 taking 1
 tallest 1
-tarpot 1
+tar pot 1
 tell 2
 ten 6
 tennessee 1
 testament 1
 than 5
 that 29
-thats 1
+that s 1
 the 104
 thee 4
 their 4
 them 3
-themleagues 1
+them leagues 1
 themselves 2
 then 4
 thence 1
@@ -673,7 +674,7 @@ they 11
 thieves 1
 thine 2
 thing 1
-thingno 1
+thing no 1
 things 1
 think 1
 thinks 2
@@ -689,7 +690,7 @@ throws 1
 thump 2
 thus 1
 thy 3
-tigerlilieswhat 1
+tiger lilies what 1
 time 6
 times 3
 to 47
@@ -740,18 +741,18 @@ virtue 1
 visit 1
 voyage 3
 wade 1
-wantingwaterthere 1
+wanting water there 1
 warehouses 2
 was 3
 washed 1
 water 6
-watergazers 1
+water gazers 1
 waterward 1
 watery 1
 waves 1
 way 4
-wayeither 1
-wayhe 1
+way either 1
+way he 1
 we 3
 wears 1
 wedded 1
@@ -778,7 +779,7 @@ why 5
 will 6
 willing 1
 winds 3
-winters 1
+winter s 1
 with 9
 within 1
 without 3
